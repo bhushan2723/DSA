@@ -1,4 +1,4 @@
-head = head pointer which store the address of first node in linked list.
+plpomklmlhead = head pointer which store the address of first node in linked list.
 pointer = pointer can store the address of the another node.
 malloc() = this function is used for the dynamically memory allocation.
 
